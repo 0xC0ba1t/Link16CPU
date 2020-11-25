@@ -1,4 +1,5 @@
 # Link16CPU
+Disclaimer: This processor is currently under development so the code is not available.
 A Verilog, Python, Assembly and Makefile 16-bit Multi Core Processor
 
 This is a multi-core embedded processor. There are a 16 RISC cores, each with a small chunk of local memory and a shared global memory area. Documentation is in the wiki (https://github.com/AdityaCyberSafe/Link16CPU/wiki).
