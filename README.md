@@ -1,5 +1,5 @@
-# Link32CPU
-A Verilog, Python, Assembly and Makefile 32-bit Multi Core Processor
+# Link16CPU
+A Verilog, Python, Assembly and Makefile 16-bit Multi Core Processor
 
 This is a multi-core embedded processor. There are a 16 RISC cores, each with a small chunk of local memory and a shared global memory area. Documentation is in the wiki (https://github.com/AdityaCyberSafe/Link32CPU/wiki).
 
